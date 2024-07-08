@@ -1,0 +1,10 @@
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\obj\Debug\Login Application.csproj.AssemblyReference.cache
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\obj\Debug\Login_Application.Properties.Resources.resources
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\obj\Debug\Login Application.csproj.GenerateResource.cache
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\obj\Debug\Login Application.csproj.CoreCompileInputs.cache
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\bin\Debug\Login Application.exe.config
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\bin\Debug\Login Application.exe
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\bin\Debug\Login Application.pdb
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\obj\Debug\Login Application.exe
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\obj\Debug\Login Application.pdb
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\Login Application\Login Application\obj\Debug\LoginApp.Form1.resources
