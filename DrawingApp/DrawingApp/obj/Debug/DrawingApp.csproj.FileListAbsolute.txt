@@ -1,0 +1,10 @@
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
+C:\Users\RichardChurchill\source\repos\dcit318-assignment4-10965604\DrawingApp\DrawingApp\obj\Debug\DrawingApp.Form1.resources
